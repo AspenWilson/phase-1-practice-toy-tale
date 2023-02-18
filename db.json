@@ -47,6 +47,12 @@
       "name": "Little Green Men",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Alien-PNG-File.png",
       "likes": 1
+    },
+    {
+      "name": "Jessie",
+      "image": "https://static.wikia.nocookie.net/p__/images/f/f8/Sheriff_Jessie_TS4_edited-1.png/revision/latest?cb=20220723150819&path-prefix=protagonist",
+      "likes": 0,
+      "id": 9
     }
   ]
 }
